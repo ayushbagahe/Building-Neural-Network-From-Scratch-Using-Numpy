@@ -32,6 +32,8 @@ output becomes either the final prediction or an input to neurons in the next la
 
 ## 05. What are Neural Network
 ![image](https://github.com/ayushbagahe/Building-Neural-Network-From-Scratch-Using-Numpy/blob/main/neural_network.png)
+
+## Explanation 
 A neural network is like a team of experts working together to make a decision. Each expert focuses on a small part of the problem and passes their opinion to the next group. The first experts look at basic details, like shapes or sounds. The next group combines those details to recognize more complex patterns, like a face or a word. Finally, the last expert gives the answer, such as “That’s a cat” or “That’s a dog.” The network learns by adjusting how much each expert is listened to, improving over time with practice and feedback
 
 
