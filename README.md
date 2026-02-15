@@ -16,7 +16,7 @@ bedrooms, location score, etc
 and control how much each input influences the final output. Think of weights as dials that the network adjusts to
 make better predictions. Higher weights mean that input has more influence
 
-## 03. Summation Function (Σ) 
+## 03 Summation Function (Σ) 
 The neuron combines all inputs with their weights using a weighted sum:
 z = (w₁×x₁) + (w₂×x₂) + ... + (wₙ×xₙ) + b
 This is essentially a dot product of the input vector and weight vector, plus the bias
