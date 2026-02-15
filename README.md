@@ -32,6 +32,6 @@ output becomes either the final prediction or an input to neurons in the next la
 
 
 ## Forward Propogation
-![Image] 
+![Image](https://github.com/ayushbagahe/Building-Neural-Network-From-Scratch-Using-Numpy/blob/main/forward_propagation.png)
 
 ## What are Neural Network
