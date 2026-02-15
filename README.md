@@ -3,6 +3,7 @@
 This is a weekend project of making neural network from scratch using numpy library in python.
 
 
-## What is Neuron 
+## What is Neuron
+![Image](artificial_neuron_apple_style (1) (1).png)
 
 ## What are Neural Network
