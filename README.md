@@ -4,6 +4,6 @@ This is a weekend project of making neural network from scratch using numpy libr
 
 
 ## What is Neuron
-![Image](artificial_neuron_apple_style (1) (1).png)
+![Image](https://github.com/ayushbagahe/Building-Neural-Network-From-Scratch-Using-Numpy/blob/main/artificial_neuron_apple_style%20(1)%20(1).png)
 
 ## What are Neural Network
