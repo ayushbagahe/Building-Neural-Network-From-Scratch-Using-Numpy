@@ -34,6 +34,7 @@ output becomes either the final prediction or an input to neurons in the next la
 ## Forward Propogation
 ![Image](https://github.com/ayushbagahe/Building-Neural-Network-From-Scratch-Using-Numpy/blob/main/forward_propagation.png)
 
+## Explanation
 Forward propagation is how a neural network makes a prediction. Input data moves from the first layer to the last, one step at a time. Each neuron multiplies the input by a weight, adds a bias, and applies an activation function to decide if the signal passes on. This continues layer by layer until the output layer gives the final result. It’s like passing a message in a chain, where each person slightly changes it before handing it off, ending with a final decision.
 
 ## What are Neural Network
