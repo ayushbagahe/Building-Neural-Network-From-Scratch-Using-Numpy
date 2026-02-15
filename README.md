@@ -1,9 +1,9 @@
-## Neural-Network-From-Scratch-Using-Numpy
-## Introduction
+## 01. Neural-Network-From-Scratch-Using-Numpy
+## 02. Introduction
 This is a weekend project of making neural network from scratch using numpy library in python.
 
 
-## What is Neuron
+## 03. What is Neuron
 ![Image](https://github.com/ayushbagahe/Building-Neural-Network-From-Scratch-Using-Numpy/blob/main/artificial_neuron_apple_style%20(1)%20(1).png)
 
 ## 01 INPUTS
@@ -31,10 +31,10 @@ This is the final value produced by the neuron after applying the activation fun
 output becomes either the final prediction or an input to neurons in the next layer
 
 
-## Forward Propogation
+## 04. Forward Propogation
 ![Image](https://github.com/ayushbagahe/Building-Neural-Network-From-Scratch-Using-Numpy/blob/main/forward_propagation.png)
 
 ## Explanation
 Forward propagation is how a neural network makes a prediction. Input data moves from the first layer to the last, one step at a time. Each neuron multiplies the input by a weight, adds a bias, and applies an activation function to decide if the signal passes on. This continues layer by layer until the output layer gives the final result. It’s like passing a message in a chain, where each person slightly changes it before handing it off, ending with a final decision.
 
-## What are Neural Network
+## 05. What are Neural Network
