@@ -31,6 +31,7 @@ This is the final value produced by the neuron after applying the activation fun
 output becomes either the final prediction or an input to neurons in the next layer
 
 
-
+## Forward Propogation
+![Image] 
 
 ## What are Neural Network
