@@ -1,9 +1,9 @@
-## 01. Neural-Network-From-Scratch-Using-Numpy
-## 02. Introduction
+## Neural-Network-From-Scratch-Using-Numpy
+## 01. Introduction
 This is a weekend project of making neural network from scratch using numpy library in python.
 
 
-## 03. What is Neuron
+## 02. What is Neuron
 ![Image](https://github.com/ayushbagahe/Building-Neural-Network-From-Scratch-Using-Numpy/blob/main/artificial_neuron_apple_style%20(1)%20(1).png)
 
 ## 01 INPUTS
@@ -30,7 +30,7 @@ make better predictions. Higher weights mean that input has more influence
 This is the final value produced by the neuron after applying the activation function to the weighted sum. The
 output becomes either the final prediction or an input to neurons in the next layer
 
-## 05. What are Neural Network
+## 03. What are Neural Network
 ![image](https://github.com/ayushbagahe/Building-Neural-Network-From-Scratch-Using-Numpy/blob/main/neural_network.png)
 
 ## Explanation 
