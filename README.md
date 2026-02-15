@@ -30,6 +30,10 @@ make better predictions. Higher weights mean that input has more influence
 This is the final value produced by the neuron after applying the activation function to the weighted sum. The
 output becomes either the final prediction or an input to neurons in the next layer
 
+## 05. What are Neural Network
+![image]()
+A neural network is like a team of experts working together to make a decision. Each expert focuses on a small part of the problem and passes their opinion to the next group. The first experts look at basic details, like shapes or sounds. The next group combines those details to recognize more complex patterns, like a face or a word. Finally, the last expert gives the answer, such as “That’s a cat” or “That’s a dog.” The network learns by adjusting how much each expert is listened to, improving over time with practice and feedback
+
 
 ## 04. Forward Propogation
 ![Image](https://github.com/ayushbagahe/Building-Neural-Network-From-Scratch-Using-Numpy/blob/main/forward_propagation.png)
@@ -37,5 +41,3 @@ output becomes either the final prediction or an input to neurons in the next la
 ## Explanation
 Forward propagation is how a neural network makes a prediction. Input data moves from the first layer to the last, one step at a time. Each neuron multiplies the input by a weight, adds a bias, and applies an activation function to decide if the signal passes on. This continues layer by layer until the output layer gives the final result. It’s like passing a message in a chain, where each person slightly changes it before handing it off, ending with a final decision.
 
-## 05. What are Neural Network
-A neural network is like a team of experts working together to make a decision. Each expert focuses on a small part of the problem and passes their opinion to the next group. The first experts look at basic details, like shapes or sounds. The next group combines those details to recognize more complex patterns, like a face or a word. Finally, the last expert gives the answer, such as “That’s a cat” or “That’s a dog.” The network learns by adjusting how much each expert is listened to, improving over time with practice and feedback
